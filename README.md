@@ -1,4 +1,4 @@
-# GDApplicationProject
+# Georgaklis Game Design Application Project
 
 System Requirements: MacOS computer with the Xcode application
 
