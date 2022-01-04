@@ -9,3 +9,5 @@ System Requirements: MacOS computer with the Xcode application
 3: Extract the newly downloaded ZIP file and open the resulting folder. You should see two items: a folder and a .xcodeproj file. Open the .xcodeproj file with Xcode.
 
 4: In Xcode, you should see a play button on the top left of the screen. Click it to run the project.
+
+If there are any issues with installing or running the project, please email me at vpg222@nyu.edu.
